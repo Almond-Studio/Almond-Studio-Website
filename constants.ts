@@ -41,11 +41,11 @@ export const TYPED_STRINGS = [
   "I design and develop motion",
 ];
 
-export const EMAIL = "ayush.singh.xda@gmail.com";
+export const EMAIL = "shivenbk@gmail.com";
 
 export const SOCIAL_LINKS = {
   linkedin: "https://www.linkedin.com/in/alphaayush/",
-  github: "https://github.com/ayush013",
+  github: "https://github.com/Almond-Studio",
   medium: "https://alphaayush.medium.com/",
   instagram: "https://www.instagram.com/alphaayush/",
   facebook: "https://www.facebook.com/ayush013",
