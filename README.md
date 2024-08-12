@@ -1,43 +1,35 @@
-# Personal Portfolio
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-My Personal Portfolio website made with Flutter 🍃🍒❤️
+## FOLIO
 
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](#)
+[Live Demo](https://ayushsingh.co.in/)
 
+To cater to my goal of having my own portfolio website since 2016 🚀
 
-![Project Thumbnail](assets/images/thumbnails/portfolio_thumbnail.png)
+## How did I create this?
 
-## 📑 Overview
+1. UI/UX is brainstormed using inspiration from winning portfolios from awwwards. High-fidelity mockup aggregating the ideas using Figma.
+2. This project uses React for simplicity to break down sections as components. Also uses next.js to achieve SSG. SVGs have been animated using CSS.
+3. Section scrolling and reveal animations uses GSAP. Card interactions use Tilt js. The timeline section was built using JS/SVGs and animated via GSAP.
+4. Optimised animations, layer management, repaints, and re-layouts using Chrome dev tools.
 
-This is my personal portfolio website v1 built with Flutter - available for multiple platforms : website , android, ios and windows
+## How to run on local?
 
+First, run the development server:
 
-### 🗝️ Key Features: 
-- Home Page
-- Projects Page
-- Project Details Page
-- Experiences Page
-- Certificates Page
-- About Page
-- Contact Me Page
-- Firebase Integration
+```bash
+npm run dev
+# or
+yarn dev
+```
 
-### 🔗 Preview Links:
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-- 🕸️ [Web Version: https://yl0.me](https://yl0.me)
-- 📱 [Mobile Version](http://u.pc.cd/oJ17)
+## Forked Versions from Community
 
-### 🪪 Project License:
-This project is licensed under [BSD 3-Clause License](LICENSE).
+Vue JS implemetation by sjtuli: [filio-vue](https://github.com/sjtuli/filio-vue)
+Same template with a slightly different flavor by shubh73: [devfolio](https://github.com/shubh73/devfolio)
 
-### Want a short preview?
+## A note on re-sharing
 
-![Walkghrough video](assets/images/thumbnails/portfolio_peek.gif)
-
-
-Feel free to check it out and give it a ⭐ if you like it. 
-Follow me for more updates and more projects ...
-
-> Updated version is coming along the way ...
-
-Copyright (©️) 2023 __YE LWIN OO__
+I have been refining the project using 7+ years of my learnings. While I appreciate the beauty of open source, due credits to the project will be appreciated if you plan to re-share the template. Copyright headers with author name should be included under the forked versions as well. Happy coding :)
