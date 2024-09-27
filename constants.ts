@@ -46,13 +46,13 @@ export const EMAIL = "shivenbk@gmail.com";
 export const SOCIAL_LINKS = {
   linkedin: "https://www.linkedin.com/in/alphaayush/",
   github: "https://github.com/Almond-Studio",
-  medium: "https://alphaayush.medium.com/",
-  instagram: "https://www.instagram.com/alphaayush/",
+  medium: "https://medium.com/@shivenbk",
+  instagram: "https://www.instagram.com/shiviwhivi/",
   facebook: "https://www.facebook.com/ayush013",
-  dribbble: "https://dribbble.com/alphaayush",
-  behance: "https://www.behance.net/alphaayush/",
-  twitter: "https://twitter.com/ayush013",
-  topmate: "https://www.topmate.io/alphaayush/",
+  dribbble: "https://dribbble.com/ShiviWhivi",
+  behance: "https://www.behance.net/shivenkhurana",
+  twitter: "https://x.com/shivi_whivi",
+  topmate: "https://topmate.io/shiviwhivi",
 };
 
 export interface IProject {
